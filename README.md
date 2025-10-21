@@ -69,7 +69,7 @@ Page principale de gestion du panier avec les fonctionnalités suivantes :
 
 1. **Cloner le repository**
 ```sh
-git clone <repository-url>
+git clone https://github.com/adamaKomi/GestionPanier-MVVM.git
    cd GestionPanier
 ```
 
